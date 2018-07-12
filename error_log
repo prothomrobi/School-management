@@ -1,0 +1,7 @@
+
+[29-Mar-2017 15:08:37 UTC] PHP Fatal error:  Call to undefined method Controller::allExamRoutine() in /home/drhs1925/public_html/view/exam_calendar.php on line 3
+[30-Mar-2017 01:57:13 UTC] PHP Fatal error:  Call to undefined method Controller::allExamRoutine() in /home/drhs1925/public_html/view/exam_calendar.php on line 3
+[30-Mar-2017 01:57:18 UTC] PHP Fatal error:  Call to undefined method Controller::allExamRoutine() in /home/drhs1925/public_html/view/exam_calendar.php on line 3
+[30-Mar-2017 01:57:23 UTC] PHP Fatal error:  Call to undefined method Controller::allExamRoutine() in /home/drhs1925/public_html/view/exam_calendar.php on line 3
+[30-Mar-2017 01:57:28 UTC] PHP Fatal error:  Call to undefined method Controller::allExamRoutine() in /home/drhs1925/public_html/view/exam_calendar.php on line 3
+[22-Apr-2017 05:26:31 UTC] PHP Fatal error:  Call to undefined method Controller::allExamRoutine() in /home/drhs1925/public_html/view/exam_calendar.php on line 3
